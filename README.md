@@ -1,4 +1,4 @@
-# EnzoBachelorThesis
+# Summary of the Bachelor's thesis of Enzo Lima
 
 ![Imgur](https://i.imgur.com/mNkJggS.png)
 
