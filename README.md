@@ -1,3 +1,3 @@
 # EnzoBachelorThesis
 
-![Imgur](https://imgur.com/mNkJggS)
+![Imgur](https://i.imgur.com/mNkJggS.png)
