@@ -1,14 +1,3 @@
-# Summary of the Bachelor's thesis of Enzo Lima
+# This page is a work in progress
 
-## Introduction
-
-For this thesis, we have developed a method to recognize misspelled names. Examples of the types of misspellings that we have considered can be seen in figure 1.
-The main function is called 'name_join' and can be loaded by installing this github repo as a package in R using the following line:
-
-```example code```
-
-
-![Imgur](https://i.imgur.com/mNkJggS.png)
-*figure 1*
-
-![Imgur](https://i.imgur.com/LMcM4DB.png)
+Here you will soon find a summary of my bachelor's thesis project, including instructions on how to use the functions that i developed. In the meantime, you can download a copy of my thesis here.
